@@ -207,7 +207,7 @@ function Animation() {
               ></video>
               <img
                 src="images/mutify-video-7a62103fb9.jpg"
-                // srcset="images/mutify-video@2x-5f70260dcb.jpg 2x"
+                srcset="images/mutify-video@2x-5f70260dcb.jpg 2x"
                 alt=""
               />
               <div className="intro__wave-wrapper">
